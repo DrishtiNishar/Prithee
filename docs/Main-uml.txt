@@ -1,0 +1,5 @@
+Main
+---------
+isAnswerCorrect(String, String, integer): boolean
+main(String[]): void
+-------
